@@ -4,7 +4,7 @@ Some neutron stars are called pulsars. They start their life with a bang and liv
 
 - always safe the original data
 - binary classification or 2-class classification
-- rename columns
+- import images, Vela pulsar
 - modelling dataframes
 - work in progress...
 
