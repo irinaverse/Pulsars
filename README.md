@@ -8,4 +8,4 @@ Some neutron stars are called pulsars. They start their life with a bang and liv
 - modelling dataframes
 - work in progress...
 
-Click the file name above to read the document up to this point.
+<p align = "right"> Click the file name above to read the document. </p>
