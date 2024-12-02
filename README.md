@@ -6,6 +6,7 @@ Some neutron stars are called pulsars. They start their life with a bang and liv
 - binary classification or 2-class classification
 - import images, Vela pulsar
 - modelling dataframes
+- moments of distribution
 - work in progress...
 
 <p align = "right"> Click the file name above to read the document. </p>
